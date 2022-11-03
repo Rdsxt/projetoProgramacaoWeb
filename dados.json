@@ -1,54 +1,238 @@
 {
     "pessoas" : [
         {
-            "image": "https://images.pexels.com/photos/14169804/pexels-photo-14169804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "image": "https://pic.onlinewebfonts.com/svg/img_173956.png",
             "nome": "alexandre",
             "rgm": 393,
-            "avParcial": 1,
+            "avParcial": 3,
             "exercicios": 1,
-            "avRegimental": 1,
-            "media": 1,
-            "status": "reprovado" 
+            "avRegimental": 5,
+            "media": 4
         },
         {
-            "image": "https://images.pexels.com/photos/14169804/pexels-photo-14169804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-            "nome": "alexandre",
-            "rgm": 393,
-            "avParcial": 1,
-            "exercicios": 1,
-            "avRegimental": 1,
-            "media": 1,
-            "status": "reprovado" 
+            "image": "https://pic.onlinewebfonts.com/svg/img_173956.png",
+            "nome": "joão",
+            "rgm": 666,
+            "avParcial": 5,
+            "exercicios": 3,
+            "avRegimental": 2,
+            "media": 6
         },
         {
-            "image": "https://images.pexels.com/photos/14169804/pexels-photo-14169804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-            "nome": "alexandre",
-            "rgm": 393,
+            "image": "https://pic.onlinewebfonts.com/svg/img_173956.png",
+            "nome": "Marcela",
+            "rgm": 631,
             "avParcial": 1,
             "exercicios": 1,
             "avRegimental": 1,
-            "media": 1,
-            "status": "reprovado" 
+            "media": 4
         },
         {
-            "image": "https://images.pexels.com/photos/14169804/pexels-photo-14169804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-            "nome": "alexandre",
-            "rgm": 393,
+            "image": "https://pic.onlinewebfonts.com/svg/img_173956.png",
+            "nome": "Lucas",
+            "rgm": 944,
             "avParcial": 1,
             "exercicios": 1,
             "avRegimental": 1,
-            "media": 1,
-            "status": "reprovado" 
+            "media": 8
         },
         {
-            "image": "https://images.pexels.com/photos/14169804/pexels-photo-14169804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-            "nome": "alexandre",
-            "rgm": 393,
+            "image": "https://pic.onlinewebfonts.com/svg/img_173956.png",
+            "nome": "Jonas",
+            "rgm": 700,
             "avParcial": 1,
             "exercicios": 1,
             "avRegimental": 1,
-            "media": 1,
-            "status": "reprovado" 
+            "media": 7
+        },
+        {
+            "image": "https://pic.onlinewebfonts.com/svg/img_173956.png",
+            "nome": "Vitor",
+            "rgm": 344,
+            "avParcial": 1,
+            "exercicios": 1,
+            "avRegimental": 1,
+            "media": 4
+        },
+        {
+            "image": "https://pic.onlinewebfonts.com/svg/img_173956.png",
+            "nome": "Geovana",
+            "rgm": 	419,
+            "avParcial": 1,
+            "exercicios": 1,
+            "avRegimental": 1,
+            "media": 2
+        },
+        {
+            "image": "https://pic.onlinewebfonts.com/svg/img_173956.png",
+            "nome": "Letícia",
+            "rgm": 	721,
+            "avParcial": 1,
+            "exercicios": 1,
+            "avRegimental": 1,
+            "media": 8
+        },
+        {
+            "image": "https://pic.onlinewebfonts.com/svg/img_173956.png",
+            "nome": "Pamela",
+            "rgm": 590,
+            "avParcial": 1,
+            "exercicios": 1,
+            "avRegimental": 1,
+            "media": 4
+        },
+        {
+            "image": "https://pic.onlinewebfonts.com/svg/img_173956.png",
+            "nome": "Rodrigo",
+            "rgm": 	721,
+            "avParcial": 1,
+            "exercicios": 1,
+            "avRegimental": 1,
+            "media": 6
+        },
+        {
+            "image": "https://pic.onlinewebfonts.com/svg/img_173956.png",
+            "nome": "Nicolas",
+            "rgm": 381,
+            "avParcial": 1,
+            "exercicios": 1,
+            "avRegimental": 1,
+            "media": 8
+        },
+        {
+            "image": "https://pic.onlinewebfonts.com/svg/img_173956.png",
+            "nome": "Guilherme",
+            "rgm": 838,
+            "avParcial": 1,
+            "exercicios": 1,
+            "avRegimental": 1,
+            "media": 5
+        },
+        {
+            "image": "https://pic.onlinewebfonts.com/svg/img_173956.png",
+            "nome": "Pedro",
+            "rgm": 103,
+            "avParcial": 1,
+            "exercicios": 1,
+            "avRegimental": 1,
+            "media": 5
+        },
+        {
+            "image": "https://pic.onlinewebfonts.com/svg/img_173956.png",
+            "nome": "Nicole",
+            "rgm": 547,
+            "avParcial": 5,
+            "exercicios": 1,
+            "avRegimental": 1,
+            "media": 5
+        },
+        {
+            "image": "https://pic.onlinewebfonts.com/svg/img_173956.png",
+            "nome": "Vinícius",
+            "rgm": 770,
+            "avParcial": 2,
+            "exercicios": 1,
+            "avRegimental": 1,
+            "media": 8
+        },
+        {
+            "image": "https://pic.onlinewebfonts.com/svg/img_173956.png",
+            "nome": "Alexandre G.",
+            "rgm": 103,
+            "avParcial": 4,
+            "exercicios": 1,
+            "avRegimental": 1,
+            "media": 3
+        },
+        {
+            "image": "https://pic.onlinewebfonts.com/svg/img_173956.png",
+            "nome": "Jéssica",            
+            "rgm": 520,
+            "avParcial": 7,
+            "exercicios": 1,
+            "avRegimental": 1,
+            "media": 8
+        },
+        {
+            "image": "https://pic.onlinewebfonts.com/svg/img_173956.png",
+            "nome": "Rosangela",
+            "rgm": 604,
+            "avParcial": 6,
+            "exercicios": 1,
+            "avRegimental": 1,
+            "media": 5	
+        },
+        {
+            "image": "https://pic.onlinewebfonts.com/svg/img_173956.png",
+            "nome": "Igor",
+            "rgm": 924,
+            "avParcial": 5,
+            "exercicios": 1,
+            "avRegimental": 1,
+            "media": 8	
+        },
+        {
+            "image": "https://pic.onlinewebfonts.com/svg/img_173956.png",
+            "nome": "Daniel",
+            "rgm": 917,
+            "avParcial": 1,
+            "exercicios": 1,
+            "avRegimental": 1,
+            "media": 4	
+        },
+        {
+            "image": "https://pic.onlinewebfonts.com/svg/img_173956.png",
+            "nome": "Leonardo",
+            "rgm": 123,
+            "avParcial": 3,
+            "exercicios": 1,
+            "avRegimental": 1,
+            "media": 5
+        },
+        {
+            "image": "https://pic.onlinewebfonts.com/svg/img_173956.png",
+            "nome": "Nathana",
+            "rgm": 489,
+            "avParcial": 5,
+            "exercicios": 1,
+            "avRegimental": 1,
+            "media": 8
+        },
+        {
+            "image": "https://pic.onlinewebfonts.com/svg/img_173956.png",
+            "nome": "Calleb",
+            "rgm": 465,
+            "avParcial": 7,
+            "exercicios": 1,
+            "avRegimental": 1,
+            "media": 4
+        },
+        {
+            "image": "https://pic.onlinewebfonts.com/svg/img_173956.png",
+            "nome": "Vitor M.",
+            "rgm": 166,
+            "avParcial": 2,
+            "exercicios": 1,
+            "avRegimental": 1,
+            "media": 0	
+        },
+        {
+            "image": "https://pic.onlinewebfonts.com/svg/img_173956.png",
+            "nome": "Amanda",
+            "rgm": 260,
+            "avParcial": 3,
+            "exercicios": 1,
+            "avRegimental": 1,
+            "media": 0
+        },
+        {
+            "image": "https://pic.onlinewebfonts.com/svg/img_173956.png",
+            "nome": "Amanda",            
+            "rgm": 260,
+            "avParcial": 3,
+            "exercicios": 1,
+            "avRegimental": 1,
+            "media": 0
         }
     ]
 }
